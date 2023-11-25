@@ -1,0 +1,9 @@
+.Message {
+    padding: 2rem;
+    margin: 1rem;
+    background-color: black;
+    color: teal;
+    text-transform: uppercase;
+    border-radius: 10px;
+    text-align: center;
+}
